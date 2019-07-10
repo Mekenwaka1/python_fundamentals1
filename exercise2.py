@@ -4,7 +4,7 @@ tip = 5 # shows the tip amount
 print("{}".format(55 + 5)) # 60 (the total price of the meal)
 
 #Question 2
-"Like" + 1 # trying to add a string and an integer
+# "Like" + 1 # trying to add a string and an integer
 "Like" + "1" # converting the integer to a string and adding them
 print("Like" + "1") # Like1
 

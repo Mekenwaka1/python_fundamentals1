@@ -15,6 +15,6 @@ remaining_cookies = 12 - int(eaten)
 print("There are {} cookies left.".format(remaining_cookies))
 
 print("How old are you?")
-year_of_birth = input()
-age = 2019 - int(year_of_birth)
-print("I am {} years old.".format(age))
+age = int(input())
+year_of_birth = 2019 - age
+print("You were born in {}.".format(year_of_birth))
